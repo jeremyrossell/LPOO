@@ -1,0 +1,4 @@
+1,Teclado,Periféricos
+2,Monitor,Pantallas
+3,Laptop,Computo
+4,Ratón,Periféricos
